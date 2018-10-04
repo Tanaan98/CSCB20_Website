@@ -1,0 +1,1 @@
+As a user, I want to be able to click on any of the sections in the table of contents or buttons on the header in order to jump to that section.

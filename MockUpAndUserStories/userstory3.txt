@@ -1,0 +1,1 @@
+As a user, I want to be able shrink my browser and still be able to use all functionality of the website.

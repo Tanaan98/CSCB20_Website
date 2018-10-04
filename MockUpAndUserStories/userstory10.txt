@@ -1,0 +1,1 @@
+As a student, I want to be able to see a table that shows all the office hours of TAs and the Professor for this course.

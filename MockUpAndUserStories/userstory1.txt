@@ -1,0 +1,2 @@
+As a user, I want to be able go to click a button to automatically scroll to the top of the website from anywhere on the website.
+
